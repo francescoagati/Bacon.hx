@@ -1,0 +1,5 @@
+-cp src
+-main bacon.Main
+-dce full
+-D analyzer
+-js build/main.js

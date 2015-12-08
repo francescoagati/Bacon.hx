@@ -1,0 +1,14 @@
+{
+  "name": "bacon.hx",
+  "license": "MIT",
+  "classPath": "src",
+  "tags": ["async"],
+  "description": "externs for Bacon.js",
+  "contributors": ["francescoagati"],
+  "releasenote": "first release",
+  "version": "0.0.0",
+  "url": "https://github.com/francescoagati/Bacon.hx",
+  "dependencies": {
+    "tink_macro":""
+  }
+}
